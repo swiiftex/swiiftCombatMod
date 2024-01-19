@@ -1,0 +1,9 @@
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Attenuation\General\MidAttenuation
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Cues\Ambient\BirdsAndWind
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Cues\Ambient\Crows_Cue
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Cues\Ambient\Foliage\LeafRustle_Cue
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Cues\Ambient\MoshpitAmbient
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Cues\Misc\SC_WavingFlagWind
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Raw\Ambient\ArmySounds\ArmyMarch2LowPass
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Raw\Ambient\Wind-Pit
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Audio\Raw\Ambient\WoodAmbience_60sec_wind

@@ -1,0 +1,13 @@
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\Scatter2
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\Scatter3
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\Scatter4
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\Scatter5
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile1_asfasfasf
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile1_ghkgk
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile1_l_l
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile1_polySurface19
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile2_asfasfasf
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile2_ghkgk
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile2_l_l
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Longbow\Arrow\ArrowScatter\ScatterPile2_polySurface19
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Weapons\Placeholders\Materials\INST_Metal3
