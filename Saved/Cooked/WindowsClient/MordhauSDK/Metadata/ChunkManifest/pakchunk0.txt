@@ -22,6 +22,7 @@ B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\Mordhau
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FFA_Yard_Comp
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GM_swiiftCombat_DM
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GM_swiiftCombat_SKM
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\HUD\W_TestSlider
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\M_Dev_Blue
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\M_Dev_Grey
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\M_Dev_Orange
@@ -29,6 +30,7 @@ B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\Mordhau
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\texture_02
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\SKM_Moshpit_Comp
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\SKM_Yard_Comp
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\SKM_Yard_Comp_BuiltData
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\swiiftCube
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Yard_Comp
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Yard_Comp_BuiltData

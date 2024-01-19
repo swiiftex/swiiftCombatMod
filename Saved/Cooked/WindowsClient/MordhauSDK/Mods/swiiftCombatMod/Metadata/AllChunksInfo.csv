@@ -316,28 +316,30 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 5,/Game/StarterContent/Particles/P_Pollen,ParticleSystem,Hard,18871,None
 5,/Game/StarterContent/Shapes/Shape_Plane,StaticMesh,Hard,8603,None
 5,/Game/StarterContent/Shapes/Shape_Wedge_B,StaticMesh,Hard,7699,None
-0,/swiiftCombatMod/BP_AttackMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_AttackMotion_swiift,2529,None
-0,/swiiftCombatMod/BP_FeintedMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_FeintedMotion_swiift,1487,None
+0,/swiiftCombatMod/BP_AttackMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_AttackMotion_swiift,2583,None
+0,/swiiftCombatMod/BP_FeintedMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_FeintedMotion_swiift,1487,None
 0,/swiiftCombatMod/BP_GS_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/BP_GS_swiift,4330,None
-0,/swiiftCombatMod/BP_KickMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickMotion_swiift,1201,None
-0,/swiiftCombatMod/BP_KickWeapon_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickWeapon_swiift,3612,None
-0,/swiiftCombatMod/BP_MordhauCharacter_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift,33035,None
-0,/swiiftCombatMod/BP_ParryMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_ParryMotion_swiift,1329,None
-0,/swiiftCombatMod/BP_swiiftEquipmentRemapper,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/BP_swiiftEquipmentRemapper,6712,None
-0,/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_FeintedMotion_swiift->/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,972,None
+0,/swiiftCombatMod/BP_KickMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_KickMotion_swiift,1201,None
+0,/swiiftCombatMod/BP_KickWeapon_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickWeapon_swiift,3679,None
+0,/swiiftCombatMod/BP_MordhauCharacter_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift,31615,None
+0,/swiiftCombatMod/BP_ParryMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_ParryMotion_swiift,1329,None
+0,/swiiftCombatMod/BP_swiiftEquipmentRemapper,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper,7984,None
+0,/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_FeintedMotion_swiift->/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,972,None
 0,/swiiftCombatMod/FFA_Moshpit_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Moshpit_Comp,15568,None
 0,/swiiftCombatMod/FFA_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp,14410,None
-0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,8761,None
-0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,8889,None
+0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,10383,None
+0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,7418,None
 8,/swiiftCombatMod/Gamemode/GS_swiiftCombat_DM,Blueprint,Hard,3157,None
-2,/swiiftCombatMod/Gamemode/GS_swiiftCombat_SKM,Blueprint,Hard,6575,None
-0,/swiiftCombatMod/Materials/M_Dev_Blue,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Blue,2733,None
-0,/swiiftCombatMod/Materials/M_Dev_Grey,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Grey,2733,None
-0,/swiiftCombatMod/Materials/M_Dev_Orange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange,2737,None
+2,/swiiftCombatMod/Gamemode/GS_swiiftCombat_SKM,Blueprint,Hard,4715,None
+0,/swiiftCombatMod/HUD/W_TestSlider,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/HUD/W_TestSlider,9217,None
+0,/swiiftCombatMod/Materials/M_Dev_Blue,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Blue,2733,None
+0,/swiiftCombatMod/Materials/M_Dev_Grey,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Grey,2733,None
+0,/swiiftCombatMod/Materials/M_Dev_Orange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange,2737,None
 0,/swiiftCombatMod/Materials/M_Grid_swiift,Material,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange->/swiiftCombatMod/Materials/M_Grid_swiift,58323,None
 0,/swiiftCombatMod/Materials/texture_02,Texture2D,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange->/swiiftCombatMod/Materials/texture_02,700378,None
 0,/swiiftCombatMod/SKM_Moshpit_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Moshpit_Comp,8620,None
-0,/swiiftCombatMod/SKM_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp,18875,None
+0,/swiiftCombatMod/SKM_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp,19257,None
+0,/swiiftCombatMod/SKM_Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/SKM_Yard_Comp_BuiltData,267060,None
 0,/swiiftCombatMod/swiiftCube,StaticMesh,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/swiiftCube,9097,None
-0,/swiiftCombatMod/Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp,764217,None
-0,/swiiftCombatMod/Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Yard_Comp_BuiltData,60223592,None
+0,/swiiftCombatMod/Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp,763766,None
+0,/swiiftCombatMod/Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Yard_Comp_BuiltData,52445040,None
