@@ -17,11 +17,15 @@ B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\Mordhau
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\BP_MordhauCharacter_swiift
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\BP_ParryMotion_swiift
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\BP_swiiftEquipmentRemapper
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FC_2StrikeReleaseSwiift
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FC_LateFeintLockoutDistCurve_swiift
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FC_RiposteReleaseSwiift
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FFA_Moshpit_Comp
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FFA_Yard_Comp
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\FFA_Yard_Comp_BuiltData
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GM_swiiftCombat_DM
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GM_swiiftCombat_SKM
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\HUD\W_FeintLockout
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\HUD\W_TestSlider
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\M_Dev_Blue
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Materials\M_Dev_Grey

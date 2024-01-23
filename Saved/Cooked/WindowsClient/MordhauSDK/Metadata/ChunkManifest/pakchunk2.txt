@@ -1,2 +1,3 @@
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Blueprints\Motions\BP_AttackMotion
 B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GS_swiiftCombat_SKM
+B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\HUD\W_SKMOverlay
