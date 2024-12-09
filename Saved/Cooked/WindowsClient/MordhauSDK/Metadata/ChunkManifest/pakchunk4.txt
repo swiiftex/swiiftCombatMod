@@ -1,123 +1,120 @@
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Materials\Grass_Mountain_2_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Materials\Grass_Mountain_3_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_2
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_3
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_4_low
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_2_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_2_N
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_3_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_3_N
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Blood
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road_MP
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road_TowerInst
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_RoadMesh
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\WoodShingleRoof2
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\bush05
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_SmallSparse
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Sparse
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Thick
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_WideStray
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\INST_DeadBush
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\base_flat_n
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\base_gray_d
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\gradient_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\Flora_twoSides
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\Material\bush01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\Material\tree_bark
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\Bush_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\Bush_N
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\TreeBark_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\TreeBark_N
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\INST_Straw
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\pbnlo_4K_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\pbnlo_4K_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_Small
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_SmallSparse
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_Thick
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\PlantGrass\INST_PlantGrassCamp
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\PlantGrass\PlantGrassCamp
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\M_Corpse_Blue_01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\M_Corpses
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\SM_Corpse_Blue_01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_Diffuse
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_MRS
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_04_MRS
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\M_Corpse_Red_05
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\SM_Corpse_Red_05
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_Diffuse
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_MRS
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Materials\SlimBanners
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Materials\SlimBannersBlue
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1_PhysicsAsset
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1_Skeleton
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner2
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner2_PhysicsAsset
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\StaticMeshes\Banners\WallArrow
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_RMA
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Castle_Material_3Blend_Test_Inst
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_RMA
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Parts
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Windmill
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Windmill_BP
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\WindmillBlade
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_a
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_n
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_r
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\MaterialInstances\INST_RockGraniteScatter
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\MaterialInstances\RMAScatterMaster
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_03
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_08
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_10
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_RMA
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\GrassLush_2K_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\GrassLush_2K_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\T_Soil_2K_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\T_Soil_2K_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\T_Soil_2K_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_Albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_RMA
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2Worn_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Billboards_Normal_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Billboards_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Normal_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_big2
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Billboard_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Branches_2_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Branches_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Fronds_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Leaves_Mat
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Detail_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Normal_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Tex
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Wood\WoodRemake\BasicShapes\Stick_S
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\Castle_Material_3Blend
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\Castle_Material_3Blend_Test
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_Basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_Normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\GroundGrass2_D
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\INST_BackgroundHill
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\Mat_BackgroundHill
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\ThePit\Textures\soil01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Materials\Grass_Mountain_2_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Materials\Grass_Mountain_3_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_2
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_3
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Meshes\Grass_Mountain_4_low
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_2_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_2_N
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_3_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Map\Textures\Grass_Mountain_3_N
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Blood
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road_MP
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_Road_TowerInst
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\DM_RoadMesh
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\DecalMaterials\WoodShingleRoof2
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\bush05
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_SmallSparse
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Sparse
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_Thick
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\DeadBush_WideStray
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Bush\NewBushes\DeadBush\INST_DeadBush
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\base_flat_n
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\base_gray_d
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\BaseTexture\gradient_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\BaseMaterial\Flora_twoSides
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\Material\bush01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\Material\tree_bark
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\Bush_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\Bush_N
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\TreeBark_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Foliage\Materials\textures\TreeBark_N
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\INST_Straw
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\pbnlo_4K_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\pbnlo_4K_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_Small
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_SmallSparse
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\Grass\Straw\Weeds_Thick
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\PlantGrass\INST_PlantGrassCamp
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Foliage\PlantGrass\PlantGrassCamp
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\M_Corpse_Blue_01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\M_Corpses
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\SM_Corpse_Blue_01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_Diffuse
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_MRS
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_01_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\BlueTeam\T_Corpse_Blue_04_MRS
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\M_Corpse_Red_05
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\SM_Corpse_Red_05
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_Diffuse
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_MRS
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Camp\Ragdoll\RedTeam\T_Corpse_Red_05_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Materials\SlimBanners
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Materials\SlimBannersBlue
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1_PhysicsAsset
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner1_Skeleton
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner2
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\SkeletalMeshes\Banner2_PhysicsAsset
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\StaticMeshes\Banners\WallArrow
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\SmallProps\Textures\SlimBanners_RMA
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Castle_Material_3Blend_Test_Inst
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Material\Windmill_RMA
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Parts
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Windmill
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\Windmill_BP
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Props\Windmill\WindmillBlade
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_a
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_n
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Roads\T_Road_r
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\MaterialInstances\INST_RockGraniteScatter
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\MaterialInstances\RMAScatterMaster
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_03
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_08
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\StaticMeshes\Scatter\SM_RockGraniteScatter_10
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Rocks\Textures\Scatter_Rock_Granite_phxuF_RMA
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\GrassLush_2K_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\GrassLush_2K_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_Albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\Terrain\WetMud_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2_RMA
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Textures\WoodShingle2Worn_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Billboards_Normal_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Billboards_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Normal_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Atlas_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_big2
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Billboard_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Branches_2_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Branches_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Fronds_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\European_White_Birch_Desktop_Leaves_Mat
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Detail_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Normal_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Trees\Birch\WhiteBirchBark_Tex
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\Environment\Wood\WoodRemake\BasicShapes\Stick_S
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\Castle_Material_3Blend
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\Castle_Material_3Blend_Test
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_Basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_Normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\Damage_Plaster\Plaster_Castle_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\GroundGrass2_D
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\INST_BackgroundHill
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\SiegeTest\Textures\Mat_BackgroundHill
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\ThePit\Textures\soil01

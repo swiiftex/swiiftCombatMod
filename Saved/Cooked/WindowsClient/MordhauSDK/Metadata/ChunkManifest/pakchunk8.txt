@@ -1,55 +1,54 @@
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\PhysicalMaterials\PhysMat_Grass
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\3v3_Ruins\Ruins\Keep\FL_Conversion\keepupper_proxy
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Abbey\Assets\AbbeyBuildingPieces\Doors\Wooden_Door_Sm_01\abbey_wd_door_01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\castle_wall_01
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\Corner_Tower\corner_tower_main
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\Corner_Tower\corner_tower_windoor_trim
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\gate02
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\MainGateHouse\gatehouse_main_section
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\MainGateHouse\gatehouse_trims
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\portcullis
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Castle_Stones_Trim
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_albedo
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_RMaskO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Pallisade\Rope_Pallisade
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\Castle_Stairs
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_color
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Basic_Mat_Grunge
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\2_Way_Height_Blend
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Castle_Mat_Inst
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Castle_Mat_Legacy
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\DungeonBrick\DungeonFloor_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smallbrks_mortar_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smbrk_mortar_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smbrk_mortar_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_color
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Floors\Castle_walkway
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cg_castle_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cg_castle_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cgtex_castle_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Functions\HeightMask_FN
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Functions\MF_GrungeRGB
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_basecolor
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_normal
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_RHAO
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_BumpOffsetCustom
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_BumpOffsetWorldSpace
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_FresnelBasedBumpOffset
-B:\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Mods\swiiftCombatMod\Content\Gamemode\GS_swiiftCombat_DM
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Assets\PhysicalMaterials\PhysMat_Grass
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\3v3_Ruins\Ruins\Keep\FL_Conversion\keepupper_proxy
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Abbey\Assets\AbbeyBuildingPieces\Doors\Wooden_Door_Sm_01\abbey_wd_door_01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\castle_wall_01
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\Corner_Tower\corner_tower_main
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\Corner_Tower\corner_tower_windoor_trim
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\gate02
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\MainGateHouse\gatehouse_main_section
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\MainGateHouse\gatehouse_trims
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Castle\Castle_Meshes\Modules\portcullis
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Castle_Stones_Trim
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_albedo
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Geo_Trim\Stone_Trim_RMaskO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Pallisade\Rope_Pallisade
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Rope\rope_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\Castle_Stairs
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_color
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Assets\Stairs\castle_strs_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Basic_Mat_Grunge
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\2_Way_Height_Blend
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Castle_Mat_Inst
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Castle_Mat_Legacy
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\DungeonBrick\DungeonFloor_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MaxMortar\castle_max_mortar_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smallbrks_mortar_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smbrk_mortar_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\CastleBrick\Small_Bricks\castle_smbrk_mortar_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_color
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\DirtyStone\castle_stone_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Floors\Castle_walkway
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\Medieval_Concrete_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cg_castle_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cg_castle_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\CastleMainMaterialStuff\Medival_Concrete\PlasterCG\plaster_cgtex_castle_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Functions\HeightMask_FN
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\AndrewG_Testing_Map\AG_Art\Functions\MF_GrungeRGB
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_basecolor
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_normal
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Maps\MainGamemode\Andrews_Art_Tests\CastleMainMaterialStuff\CastleBrick\MinMortar\castle_min_mortar_RHAO
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_BumpOffsetCustom
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_BumpOffsetWorldSpace
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\MaterialFunctions\MF_FresnelBasedBumpOffset

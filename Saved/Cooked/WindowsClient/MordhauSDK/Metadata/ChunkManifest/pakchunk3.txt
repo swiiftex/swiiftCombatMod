@@ -1,0 +1,2 @@
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Animations\Montages\MTG_Jab
+F:\Unreal Engine\MORDHAUEditor\Mordhau\Mods\swiiftCombatMod\Saved\Cooked\WindowsClient\MordhauSDK\Content\Mordhau\Animations\RawClips\1H\1H_RH_LeftStabJab_V2

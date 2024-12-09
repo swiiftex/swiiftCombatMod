@@ -3,7 +3,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/EngineSky/C_Sky_Cloud_Color,CurveLinearColor,Hard,1725,None
 0,/Engine/EngineSky/C_Sky_Horizon_Color,CurveLinearColor,Hard,1729,None
 0,/Engine/EngineSky/C_Sky_Zenith_Color,CurveLinearColor,Hard,1808,None
-0,/Engine/EngineSky/M_Sky_Panning_Clouds2,Material,Hard,12374,None
+0,/Engine/EngineSky/M_Sky_Panning_Clouds2,Material,Hard,12375,None
 0,/Engine/EngineSky/SM_SkySphere,StaticMesh,Hard,161009,None
 0,/Engine/EngineSky/T_Sky_Blue,Texture2D,Hard,2797783,None
 0,/Engine/EngineSky/T_Sky_Clouds_M,Texture2D,Hard,700655,None
@@ -11,20 +11,20 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_HardLight,MaterialFunction,Hard,960,None
 0,/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_LinearDodge,MaterialFunction,Hard,962,None
 5,/Game/Effects/Particles/INST_VolumetricFog_creeping,MaterialInstanceConstant,Hard,3008,None
-5,/Game/Effects/Particles/M_VolumetricFog,Material,Hard,329917,None
+5,/Game/Effects/Particles/M_VolumetricFog,Material,Hard,329953,None
 5,/Game/Effects/Particles/Misc/P_Birds,ParticleSystem,Hard,31954,None
 5,/Game/Effects/Particles/P_VolumetricFog_creeping,ParticleSystem,Hard,13322,None
 5,/Game/Effects/Particles/Snow/SnowMapModifications/GpuFlares,ParticleSystem,Hard,15633,None
-5,/Game/Effects/Particles/Snow/SnowMapModifications/ParticleMaterial/MAT_EmberParticle,Material,Hard,64510,None
-5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_Branch_MASTER,Material,Hard,192565,None
-5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_General_MASTER,Material,Hard,553994,None
-5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_Plant_MASTER,Material,Hard,370804,None
-5,/Game/ForestCollection/Materials/Plants/MTL_ForestC_BranchOakA,MaterialInstanceConstant,Hard,191907,None
+5,/Game/Effects/Particles/Snow/SnowMapModifications/ParticleMaterial/MAT_EmberParticle,Material,Hard,64513,None
+5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_Branch_MASTER,Material,Hard,192589,None
+5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_General_MASTER,Material,Hard,554066,None
+5,/Game/ForestCollection/Materials/MASTER/MTL_ForestC_Plant_MASTER,Material,Hard,370852,None
+5,/Game/ForestCollection/Materials/Plants/MTL_ForestC_BranchOakA,MaterialInstanceConstant,Hard,191931,None
 5,/Game/ForestCollection/Materials/Plants/MTL_ForestC_BranchOakA_Small,MaterialInstanceConstant,Hard,6513,None
 5,/Game/ForestCollection/Materials/Plants/MTL_ForestC_PlantGroundA,MaterialInstanceConstant,Hard,9497,None
 5,/Game/ForestCollection/Materials/Plants/MTL_ForestC_PlantGroundB,MaterialInstanceConstant,Hard,8032,None
-5,/Game/ForestCollection/Materials/Trees/MTL_ForestC_Branch2,MaterialInstanceConstant,Hard,512272,None
-5,/Game/ForestCollection/Materials/Trees/MTL_ForestC_Branch2_LOD,MaterialInstanceConstant,Hard,479601,None
+5,/Game/ForestCollection/Materials/Trees/MTL_ForestC_Branch2,MaterialInstanceConstant,Hard,512344,None
+5,/Game/ForestCollection/Materials/Trees/MTL_ForestC_Branch2_LOD,MaterialInstanceConstant,Hard,479673,None
 5,/Game/ForestCollection/Meshes/Plants/SM_ForestC_OakTwig02,StaticMesh,Hard,19341,None
 5,/Game/ForestCollection/Meshes/Plants/SM_ForestC_PlantGround2D1,StaticMesh,Hard,20892,None
 5,/Game/ForestCollection/Meshes/Plants/SM_ForestC_PlantGroundA2,StaticMesh,Hard,13154,None
@@ -56,10 +56,10 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 5,/Game/KiteDemo/Environments/ParameterCollections/MPC_Sky,MaterialParameterCollection,Hard,1202,None
 5,/Game/KiteDemo/Environments/Sky/Cloud_Mountain/BP_CloudsheetStatic,Blueprint,Hard,8251,None
 5,/Game/KiteDemo/Environments/Sky/Cloud_Mountain/Cloud_MountainHang_A,Texture2D,Hard,88783,None
-5,/Game/KiteDemo/Environments/Sky/Cloud_Mountain/M_Cloud_MountainHang_Static,Material,Hard,106932,None
+5,/Game/KiteDemo/Environments/Sky/Cloud_Mountain/M_Cloud_MountainHang_Static,Material,Hard,106934,None
 5,/Game/KiteDemo/Environments/Sky/Cloud_Mountain/S_Cloudsheet,StaticMesh,Hard,4030,None
-4,/Game/Map/Materials/Grass_Mountain_2_Mat,Material,Hard,46686,None
-4,/Game/Map/Materials/Grass_Mountain_3_Mat,Material,Hard,46686,None
+4,/Game/Map/Materials/Grass_Mountain_2_Mat,Material,Hard,46698,None
+4,/Game/Map/Materials/Grass_Mountain_3_Mat,Material,Hard,46698,None
 4,/Game/Map/Meshes/Grass_Mountain_2,StaticMesh,Hard,596939,None
 4,/Game/Map/Meshes/Grass_Mountain_3,StaticMesh,Hard,744175,None
 4,/Game/Map/Meshes/Grass_Mountain_4_low,StaticMesh,Hard,16911,None
@@ -67,9 +67,9 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Map/Textures/Grass_Mountain_2_N,Texture2D,Hard,1399769,None
 4,/Game/Map/Textures/Grass_Mountain_3_D,Texture2D,Hard,2797574,None
 4,/Game/Map/Textures/Grass_Mountain_3_N,Texture2D,Hard,1399769,None
-5,/Game/MedievalVillage/Materials/-Paralaxing,Material,Hard,62239,None
-5,/Game/MedievalVillage/Materials/-StandardShader_Mat,Material,Hard,320768,None
-5,/Game/MedievalVillage/Materials/-VertexPainted_Mat,Material,Hard,66648,None
+5,/Game/MedievalVillage/Materials/-Paralaxing,Material,Hard,62251,None
+5,/Game/MedievalVillage/Materials/-StandardShader_Mat,Material,Hard,320812,None
+5,/Game/MedievalVillage/Materials/-VertexPainted_Mat,Material,Hard,66660,None
 5,/Game/MedievalVillage/Materials/Plaster_Inst,MaterialInstanceConstant,Hard,6455,None
 5,/Game/MedievalVillage/Materials/Roof_A_Inst,MaterialInstanceConstant,Hard,6561,None
 5,/Game/MedievalVillage/Materials/Wood_Inst,MaterialInstanceConstant,Hard,7488,None
@@ -100,14 +100,16 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 5,/Game/MedievalVillage/Textures/WoodCeiling_A,Texture2D,Hard,2797576,None
 5,/Game/MedievalVillage/Textures/WoodCeiling_C,Texture2D,Hard,2797636,None
 5,/Game/MedievalVillage/Textures/WoodCeiling_N,Texture2D,Hard,5594111,None
-1,/Game/Mordhau/Assets/Animals/ParticleCrow/Group25220Mat,Material,Hard,101236,None
+3,/Game/Mordhau/Animations/Montages/MTG_Jab,AnimMontage,Hard,3830,None
+3,/Game/Mordhau/Animations/RawClips/1H/1H_RH_LeftStabJab_V2,AnimSequence,Hard,39636,None
+1,/Game/Mordhau/Assets/Animals/ParticleCrow/Group25220Mat,Material,Hard,101252,None
 1,/Game/Mordhau/Assets/Animals/ParticleCrow/LpBird,StaticMesh,Hard,44428,None
-4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Blood,Material,Hard,66198,None
-4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Road,Material,Hard,65000,None
+4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Blood,Material,Hard,66213,None
+4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Road,Material,Hard,65015,None
 4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Road_MP,MaterialInstanceConstant,Hard,3360,None
 4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_Road_TowerInst,MaterialInstanceConstant,Hard,3684,None
-4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_RoadMesh,Material,Hard,89787,None
-4,/Game/Mordhau/Assets/Environment/DecalMaterials/WoodShingleRoof2,Material,Hard,82356,None
+4,/Game/Mordhau/Assets/Environment/DecalMaterials/DM_RoadMesh,Material,Hard,89804,None
+4,/Game/Mordhau/Assets/Environment/DecalMaterials/WoodShingleRoof2,Material,Hard,82376,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/bush05,StaticMesh,Hard,230323,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/DeadBush_Albedo,Texture2D,Hard,1399490,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/DeadBush_Normal,Texture2D,Hard,1399809,None
@@ -115,27 +117,27 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/DeadBush_Sparse,StaticMesh,Hard,19361,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/DeadBush_Thick,StaticMesh,Hard,29217,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/DeadBush_WideStray,StaticMesh,Hard,21316,None
-4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/INST_DeadBush,MaterialInstanceConstant,Hard,581273,None
+4,/Game/Mordhau/Assets/Environment/Foliage/Bush/NewBushes/DeadBush/INST_DeadBush,MaterialInstanceConstant,Hard,581345,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/BaseMaterial/BaseTexture/base_flat_n,Texture2D,Hard,1552,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/BaseMaterial/BaseTexture/base_gray_d,Texture2D,Hard,1177,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/BaseMaterial/BaseTexture/gradient_D,Texture2D,Hard,1887,None
-4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/BaseMaterial/Flora_twoSides,Material,Hard,352730,None
+4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/BaseMaterial/Flora_twoSides,Material,Hard,352778,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/Material/bush01,MaterialInstanceConstant,Hard,7283,None
-4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/Material/tree_bark,MaterialInstanceConstant,Hard,326972,None
+4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/Material/tree_bark,MaterialInstanceConstant,Hard,327020,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/textures/Bush_D,Texture2D,Hard,1399475,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/textures/Bush_N,Texture2D,Hard,1399794,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/textures/TreeBark_D,Texture2D,Hard,2797607,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Foliage/Materials/textures/TreeBark_N,Texture2D,Hard,5594142,None
-4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/INST_Straw,MaterialInstanceConstant,Hard,582326,None
+4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/INST_Straw,MaterialInstanceConstant,Hard,582398,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/pbnlo_4K_Albedo,Texture2D,Hard,1399478,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/pbnlo_4K_Normal,Texture2D,Hard,1399797,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/Weeds_Small,StaticMesh,Hard,35863,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/Weeds_SmallSparse,StaticMesh,Hard,51211,None
 4,/Game/Mordhau/Assets/Environment/Foliage/Grass/Straw/Weeds_Thick,StaticMesh,Hard,33819,None
-4,/Game/Mordhau/Assets/Environment/Foliage/PlantGrass/INST_PlantGrassCamp,MaterialInstanceConstant,Hard,579279,None
+4,/Game/Mordhau/Assets/Environment/Foliage/PlantGrass/INST_PlantGrassCamp,MaterialInstanceConstant,Hard,579349,None
 4,/Game/Mordhau/Assets/Environment/Foliage/PlantGrass/PlantGrassCamp,StaticMesh,Hard,71369,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/M_Corpse_Blue_01,MaterialInstanceConstant,Hard,10765,None
-4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/M_Corpses,Material,Hard,63252,None
+4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/M_Corpses,Material,Hard,63264,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/SM_Corpse_Blue_01,StaticMesh,Hard,526601,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/T_Corpse_Blue_01_Diffuse,Texture2D,Hard,700577,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/BlueTeam/T_Corpse_Blue_01_MRS,Texture2D,Hard,700569,None
@@ -146,8 +148,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/RedTeam/T_Corpse_Red_05_Diffuse,Texture2D,Hard,700574,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/RedTeam/T_Corpse_Red_05_MRS,Texture2D,Hard,700566,None
 4,/Game/Mordhau/Assets/Environment/Props/Camp/Ragdoll/RedTeam/T_Corpse_Red_05_Normal,Texture2D,Hard,1399819,None
-4,/Game/Mordhau/Assets/Environment/Props/SmallProps/Materials/SlimBanners,Material,Hard,232227,None
-4,/Game/Mordhau/Assets/Environment/Props/SmallProps/Materials/SlimBannersBlue,Material,Hard,214399,None
+4,/Game/Mordhau/Assets/Environment/Props/SmallProps/Materials/SlimBanners,Material,Hard,232247,None
+4,/Game/Mordhau/Assets/Environment/Props/SmallProps/Materials/SlimBannersBlue,Material,Hard,214415,None
 4,/Game/Mordhau/Assets/Environment/Props/SmallProps/SkeletalMeshes/Banner1,SkeletalMesh,Hard,240480,None
 4,/Game/Mordhau/Assets/Environment/Props/SmallProps/SkeletalMeshes/Banner1_PhysicsAsset,PhysicsAsset,Hard,2295,None
 4,/Game/Mordhau/Assets/Environment/Props/SmallProps/SkeletalMeshes/Banner1_Skeleton,Skeleton,Hard,1306,None
@@ -161,7 +163,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/Material/Windmill_Albedo,Texture2D,Hard,2797606,None
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/Material/Windmill_Normal,Texture2D,Hard,5594141,None
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/Material/Windmill_RMA,Texture2D,Hard,2797660,None
-4,/Game/Mordhau/Assets/Environment/Props/Windmill/Parts,Material,Hard,78949,None
+4,/Game/Mordhau/Assets/Environment/Props/Windmill/Parts,Material,Hard,78969,None
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/Windmill,StaticMesh,Hard,284810,None
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/Windmill_BP,Blueprint,Hard,6173,None
 4,/Game/Mordhau/Assets/Environment/Props/Windmill/WindmillBlade,StaticMesh,Hard,169353,None
@@ -169,7 +171,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Roads/T_Road_n,Texture2D,Hard,1399769,None
 4,/Game/Mordhau/Assets/Environment/Roads/T_Road_r,Texture2D,Hard,700588,None
 4,/Game/Mordhau/Assets/Environment/Rocks/MaterialInstances/INST_RockGraniteScatter,MaterialInstanceConstant,Hard,4796,None
-4,/Game/Mordhau/Assets/Environment/Rocks/MaterialInstances/RMAScatterMaster,Material,Hard,191892,None
+4,/Game/Mordhau/Assets/Environment/Rocks/MaterialInstances/RMAScatterMaster,Material,Hard,191924,None
 4,/Game/Mordhau/Assets/Environment/Rocks/StaticMeshes/Scatter/SM_RockGraniteScatter_01,StaticMesh,Hard,36064,None
 4,/Game/Mordhau/Assets/Environment/Rocks/StaticMeshes/Scatter/SM_RockGraniteScatter_03,StaticMesh,Hard,48608,None
 4,/Game/Mordhau/Assets/Environment/Rocks/StaticMeshes/Scatter/SM_RockGraniteScatter_08,StaticMesh,Hard,29920,None
@@ -179,9 +181,6 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Rocks/Textures/Scatter_Rock_Granite_phxuF_RMA,Texture2D,Hard,2797829,None
 4,/Game/Mordhau/Assets/Environment/Textures/Terrain/GrassLush_2K_Albedo,Texture2D,Hard,5593823,None
 4,/Game/Mordhau/Assets/Environment/Textures/Terrain/GrassLush_2K_Normal,Texture2D,Hard,5594142,None
-4,/Game/Mordhau/Assets/Environment/Textures/Terrain/T_Soil_2K_Albedo,Texture2D,Hard,5593817,None
-4,/Game/Mordhau/Assets/Environment/Textures/Terrain/T_Soil_2K_Normal,Texture2D,Hard,5594136,None
-4,/Game/Mordhau/Assets/Environment/Textures/Terrain/T_Soil_2K_RHAO,Texture2D,Hard,2797799,None
 4,/Game/Mordhau/Assets/Environment/Textures/Terrain/WetMud_Albedo,Texture2D,Hard,2797595,None
 4,/Game/Mordhau/Assets/Environment/Textures/Terrain/WetMud_Normal,Texture2D,Hard,5594130,None
 4,/Game/Mordhau/Assets/Environment/Textures/Terrain/WetMud_RHAO,Texture2D,Hard,2797908,None
@@ -195,11 +194,11 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Atlas_Normal_Tex,Texture2D,Hard,2797997,None
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Atlas_Tex,Texture2D,Hard,2797664,None
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_big2,StaticMesh,Hard,894156,None
-4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Billboard_Mat,Material,Hard,157958,None
-4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Branches_2_Mat,Material,Hard,190999,None
-4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Branches_Mat,Material,Hard,191520,None
-4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Fronds_Mat,Material,Hard,194541,None
-4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Leaves_Mat,Material,Hard,217369,None
+4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Billboard_Mat,Material,Hard,157982,None
+4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Branches_2_Mat,Material,Hard,191023,None
+4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Branches_Mat,Material,Hard,191544,None
+4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Fronds_Mat,Material,Hard,194565,None
+4,/Game/Mordhau/Assets/Environment/Trees/Birch/European_White_Birch_Desktop_Leaves_Mat,Material,Hard,217393,None
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/WhiteBirchBark_Detail_Tex,Texture2D,Hard,176126,None
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/WhiteBirchBark_Normal_Tex,Texture2D,Hard,351265,None
 4,/Game/Mordhau/Assets/Environment/Trees/Birch/WhiteBirchBark_Tex,Texture2D,Hard,176140,None
@@ -218,7 +217,6 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 7,/Game/Mordhau/Assets/Weapons/Longbow/Arrow/ArrowScatter/ScatterPile2_l_l,StaticMesh,Hard,50660,None
 7,/Game/Mordhau/Assets/Weapons/Longbow/Arrow/ArrowScatter/ScatterPile2_polySurface19,StaticMesh,Hard,35674,None
 7,/Game/Mordhau/Assets/Weapons/Placeholders/Materials/INST_Metal3,MaterialInstanceConstant,Hard,1530,None
-6,/Game/Mordhau/Audio/Attenuation/General/MidAttenuation,SoundAttenuation,Hard,1798,None
 6,/Game/Mordhau/Audio/Cues/Ambient/BirdsAndWind,SoundCue,Hard,3037,None
 6,/Game/Mordhau/Audio/Cues/Ambient/Crows_Cue,SoundCue,Hard,6257,None
 6,/Game/Mordhau/Audio/Cues/Ambient/Foliage/LeafRustle_Cue,SoundCue,Hard,3766,None
@@ -249,14 +247,14 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Rope/rope_basecolor,Texture2D,Hard,88717,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Rope/rope_normal,Texture2D,Hard,176430,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Rope/rope_RHAO,Texture2D,Hard,88767,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Stairs/Castle_Stairs,MaterialInstanceConstant,Hard,270147,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Stairs/Castle_Stairs,MaterialInstanceConstant,Hard,270191,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Stairs/castle_strs_color,Texture2D,Hard,700425,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Stairs/castle_strs_normal,Texture2D,Hard,1399810,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Assets/Stairs/castle_strs_RHAO,Texture2D,Hard,700625,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Basic_Mat_Grunge,Material,Hard,226460,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/2_Way_Height_Blend,Material,Hard,158354,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Castle_Mat_Inst,MaterialInstanceConstant,Hard,338661,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Castle_Mat_Legacy,Material,Hard,256610,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/Basic_Mat_Grunge,Material,Hard,226504,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/2_Way_Height_Blend,Material,Hard,158378,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Castle_Mat_Inst,MaterialInstanceConstant,Hard,338709,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Castle_Mat_Legacy,Material,Hard,256658,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/CastleBrick/DungeonBrick/DungeonFloor_RHAO,Texture2D,Hard,2797850,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/CastleBrick/MaxMortar/castle_max_mortar_basecolor,Texture2D,Hard,2797665,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/CastleBrick/MaxMortar/castle_max_mortar_normal,Texture2D,Hard,5594194,None
@@ -270,7 +268,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/DirtyStone/castle_stone_color,Texture2D,Hard,2797636,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/DirtyStone/castle_stone_normal,Texture2D,Hard,5594173,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/DirtyStone/castle_stone_RHAO,Texture2D,Hard,2797694,None
-8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Floors/Castle_walkway,MaterialInstanceConstant,Hard,270614,None
+8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Floors/Castle_walkway,MaterialInstanceConstant,Hard,270658,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Medival_Concrete/Medieval_Concrete_basecolor,Texture2D,Hard,2797660,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Medival_Concrete/Medieval_Concrete_normal,Texture2D,Hard,5594189,None
 8,/Game/Mordhau/Maps/AndrewG_Testing_Map/AG_Art/CastleMainMaterialStuff/Medival_Concrete/Medieval_Concrete_RHAO,Texture2D,Hard,2797710,None
@@ -291,7 +289,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 20,/Game/Mordhau/Maps/DuelCamp/CampGrass,LandscapeGrassType,Hard,8258,None
 20,/Game/Mordhau/Maps/DuelCamp/CampGrassDead,LandscapeGrassType,Hard,9808,None
 20,/Game/Mordhau/Maps/DuelCamp/CampPebbles,LandscapeGrassType,Hard,6347,None
-4,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/Castle_Material_3Blend,Material,Hard,106306,None
+4,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/Castle_Material_3Blend,Material,Hard,106328,None
 4,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/Castle_Material_3Blend_Test,MaterialInstanceConstant,Hard,6884,None
 4,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/CastleBrick/Damage_Plaster/Plaster_Castle_Basecolor,Texture2D,Hard,11186312,None
 4,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/CastleBrick/Damage_Plaster/Plaster_Castle_Normal,Texture2D,Hard,22371449,None
@@ -302,12 +300,12 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 8,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/CastleBrick/MinMortar/castle_min_mortar_basecolor,Texture2D,Hard,11186313,None
 8,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/CastleBrick/MinMortar/castle_min_mortar_normal,Texture2D,Hard,22371450,None
 8,/Game/Mordhau/Maps/MainGamemode/Andrews_Art_Tests/CastleMainMaterialStuff/CastleBrick/MinMortar/castle_min_mortar_RHAO,Texture2D,Hard,11186363,None
-10,/Game/Mordhau/Maps/Moshpit/M_MoshpitLandscape,Material,Hard,70146,None
-10,/Game/Mordhau/Maps/Moshpit/Moshpit,World,Hard,3690366,None
+10,/Game/Mordhau/Maps/Moshpit/M_MoshpitLandscape,Material,Hard,70158,None
+10,/Game/Mordhau/Maps/Moshpit/Moshpit,World,Hard,3690462,None
 10,/Game/Mordhau/Maps/Moshpit/Moshpit_BuiltData,MapBuildDataRegistry,Hard,45330418,None
 4,/Game/Mordhau/Maps/SiegeTest/Textures/GroundGrass2_D,Texture2D,Hard,2797585,None
 4,/Game/Mordhau/Maps/SiegeTest/Textures/INST_BackgroundHill,MaterialInstanceConstant,Hard,3807,None
-4,/Game/Mordhau/Maps/SiegeTest/Textures/Mat_BackgroundHill,Material,Hard,55265,None
+4,/Game/Mordhau/Maps/SiegeTest/Textures/Mat_BackgroundHill,Material,Hard,55277,None
 4,/Game/Mordhau/Maps/ThePit/Textures/soil01,Texture2D,Hard,5593782,None
 8,/Game/Mordhau/MaterialFunctions/MF_BumpOffsetCustom,MaterialFunction,Hard,771,None
 8,/Game/Mordhau/MaterialFunctions/MF_BumpOffsetWorldSpace,MaterialFunction,Hard,779,None
@@ -316,35 +314,36 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 5,/Game/StarterContent/Particles/P_Pollen,ParticleSystem,Hard,18871,None
 5,/Game/StarterContent/Shapes/Shape_Plane,StaticMesh,Hard,8603,None
 5,/Game/StarterContent/Shapes/Shape_Wedge_B,StaticMesh,Hard,7699,None
-0,/swiiftCombatMod/BP_AttackMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_AttackMotion_swiift,2583,None
-0,/swiiftCombatMod/BP_FeintedMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_FeintedMotion_swiift,1487,None
+0,/swiiftCombatMod/BP_AttackMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_AttackMotion_swiift,2583,None
+0,/swiiftCombatMod/BP_FeintedMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_FeintedMotion_swiift,1487,None
 0,/swiiftCombatMod/BP_GS_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/BP_GS_swiift,4330,None
-0,/swiiftCombatMod/BP_KickMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_KickMotion_swiift,1201,None
-0,/swiiftCombatMod/BP_KickWeapon_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickWeapon_swiift,3679,None
-0,/swiiftCombatMod/BP_MordhauCharacter_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift,38519,None
-0,/swiiftCombatMod/BP_ParryMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_ParryMotion_swiift,1329,None
+0,/swiiftCombatMod/BP_JabWeapon_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/BP_JabWeapon_swiift,5336,None
+0,/swiiftCombatMod/BP_KickMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickMotion_swiift,1201,None
+0,/swiiftCombatMod/BP_KickWeapon_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_KickWeapon_swiift,3429,None
+0,/swiiftCombatMod/BP_MordhauCharacter_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift,39242,None
+0,/swiiftCombatMod/BP_ParryMotion_swiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_ParryMotion_swiift,1329,None
 0,/swiiftCombatMod/BP_swiiftEquipmentRemapper,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper,7984,None
 0,/swiiftCombatMod/FC_2StrikeReleaseSwiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FC_2StrikeReleaseSwiift,948,None
-0,/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM->/swiiftCombatMod/BP_swiiftEquipmentRemapper->/swiiftCombatMod/BP_FeintedMotion_swiift->/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,972,None
+0,/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/BP_FeintedMotion_swiift->/swiiftCombatMod/FC_LateFeintLockoutDistCurve_swiift,972,None
 0,/swiiftCombatMod/FC_RiposteReleaseSwiift,CurveFloat,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FC_RiposteReleaseSwiift,975,None
 0,/swiiftCombatMod/FFA_Moshpit_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Moshpit_Comp,15568,None
 0,/swiiftCombatMod/FFA_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp,14630,None
 0,/swiiftCombatMod/FFA_Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/FFA_Yard_Comp_BuiltData,90301,None
-0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,10555,None
-0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,7501,None
-8,/swiiftCombatMod/Gamemode/GS_swiiftCombat_DM,Blueprint,Hard,4183,None
-2,/swiiftCombatMod/Gamemode/GS_swiiftCombat_SKM,Blueprint,Hard,8788,None
+0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_DM,10422,None
+0,/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM,8847,None
+0,/swiiftCombatMod/Gamemode/GS_swiiftCombat_DM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/Gamemode/GS_swiiftCombat_DM,4183,None
+0,/swiiftCombatMod/Gamemode/GS_swiiftCombat_SKM,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/HUD/HUD_SKMswiift->/swiiftCombatMod/HUD/W_SKMOverlay->/swiiftCombatMod/Gamemode/GS_swiiftCombat_SKM,6515,None
+0,/swiiftCombatMod/HUD/HUD_SKMswiift,Blueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/HUD/HUD_SKMswiift,4607,None
 0,/swiiftCombatMod/HUD/W_FeintLockout,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/HUD/W_FeintLockout,15478,None
-2,/swiiftCombatMod/HUD/W_SKMOverlay,WidgetBlueprint,Hard,15549,None
+0,/swiiftCombatMod/HUD/W_SKMOverlay,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/HUD/HUD_SKMswiift->/swiiftCombatMod/HUD/W_SKMOverlay,15953,None
 0,/swiiftCombatMod/HUD/W_TestSlider,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/Gamemode/GM_swiiftCombat_SKM->/swiiftCombatMod/BP_MordhauCharacter_swiift->/swiiftCombatMod/HUD/W_TestSlider,21854,None
 0,/swiiftCombatMod/Materials/M_Dev_Blue,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Blue,2733,None
 0,/swiiftCombatMod/Materials/M_Dev_Grey,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Grey,2733,None
 0,/swiiftCombatMod/Materials/M_Dev_Orange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange,2737,None
-0,/swiiftCombatMod/Materials/M_Grid_swiift,Material,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange->/swiiftCombatMod/Materials/M_Grid_swiift,58323,None
+0,/swiiftCombatMod/Materials/M_Grid_swiift,Material,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange->/swiiftCombatMod/Materials/M_Grid_swiift,58335,None
 0,/swiiftCombatMod/Materials/texture_02,Texture2D,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Materials/M_Dev_Orange->/swiiftCombatMod/Materials/texture_02,700378,None
 0,/swiiftCombatMod/SKM_Moshpit_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Moshpit_Comp,8620,None
-0,/swiiftCombatMod/SKM_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp,19257,None
-0,/swiiftCombatMod/SKM_Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp->/swiiftCombatMod/SKM_Yard_Comp_BuiltData,267060,None
+0,/swiiftCombatMod/SKM_Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/SKM_Yard_Comp,19037,None
 0,/swiiftCombatMod/swiiftCube,StaticMesh,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/swiiftCube,9097,None
-0,/swiiftCombatMod/Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp,763766,None
-0,/swiiftCombatMod/Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Yard_Comp_BuiltData,52445040,None
+0,/swiiftCombatMod/Yard_Comp,World,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp,721088,None
+0,/swiiftCombatMod/Yard_Comp_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /swiiftCombatMod/FFA_Yard_Comp->/swiiftCombatMod/Yard_Comp->/swiiftCombatMod/Yard_Comp_BuiltData,52444461,None
